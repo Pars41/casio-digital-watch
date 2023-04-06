@@ -14,7 +14,9 @@ casio-digital-watch(folder)
 └── alarm.wav
 ```
 ## Project-gif
+
 ## Project-link
+https://pars41.github.io/casio-digital-watch/
 ### At the end of the project, following topics are to be covered;
 - HTML
 - CSS
