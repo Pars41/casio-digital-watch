@@ -14,6 +14,7 @@ casio-digital-watch(folder)
 └── alarm.wav
 ```
 ## Project-gif
+![casio](https://user-images.githubusercontent.com/118731253/230244806-4153a7f4-a9a3-4082-a531-f242fe2639f2.gif)
 
 ## Project-link
 https://pars41.github.io/casio-digital-watch/
